@@ -1,0 +1,16 @@
+body {
+	background-color: #57c5b6;
+}
+img {
+	border-radius: 25%;
+}
+h1,
+h2,
+h3 {
+	color: #002b5b;
+}
+
+hr {
+	border: 1spx dashed #002B5B;
+	border-radius: 1px;
+}
